@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### Senior Analyst/ Software Engineer - Capgemini, Bangalore Apr 2019 – Present
 ### Software Engineer - Capgemini, Bangalore Apr 2018 – Mar 2019
 ### Software Associate - Capgemini, Bangalore Feb 2017 – Mar 2018
-
-* Responsible to develop an open source framework (DevonFw) for Capgemini and also to develop web applications (backend java) for the clients of Capgemini as per Agile Methodology. Took part in all the scrum process meetings and also part of all SDLC.
+  
+* Responsible to develop an open source framework (DevonFw) and also to develop web applications (backend java) for the clients of Capgemini as per Agile Methodology. Took part in all the scrum process meetings and also part of all SDLC.
 
 ## Education
 Bachelor of Computer Application
