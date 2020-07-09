@@ -59,9 +59,9 @@ Eclipse, Intellij.
 ###BNotK (Bundesnotarkammer), Germany a public sector project aims to re-create a legacy-application into a new form, digitalizing the existing manual notary system in Germany. Our main idea is to develop a system where we can have all the required user’s information for the Notar in order to effectively handle and store all the Notary information in a Digitalized manner.
 
 ##Awards, Certifications and other achievements
-•	Received award RISING STAR (2017-18) at Capgemini for being a quick learner and shown good results at initial stage.
-•	Received award FIRE FIGHTER (2018-19) at Capgemini for turning a major escalation project to a successful delivery
-•	Earned certification from HackerRank for passing the assessment in java.
-•	GNIIT (J2EE) Course at NIIT Chennai.
-•	Participated in Capgemini Technical Fiesta Contest – received 2st prize among the group of 25 for providing most optimized solution in a given time frame.
-•	Best Contributor Appreciations for Project contribution in Europe CSD Account at Capgemini.
+*	Received award RISING STAR (2017-18) at Capgemini for being a quick learner and shown good results at initial stage.
+*	Received award FIRE FIGHTER (2018-19) at Capgemini for turning a major escalation project to a successful delivery
+*	Earned certification from HackerRank for passing the assessment in java.
+*	GNIIT (J2EE) Course at NIIT Chennai.
+*	Participated in Capgemini Technical Fiesta Contest – received 2st prize among the group of 25 for providing most optimized solution in a given time frame.
+*	Best Contributor Appreciations for Project contribution in Europe CSD Account at Capgemini.
