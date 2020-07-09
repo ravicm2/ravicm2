@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Senior Analyst / Software Engineer – Capgemini
-### Email: ashwinravim@gmail.com Mobile: +91 7619150942 LinkedIn: www.linkedin.com/in/ravicm2,
+### Email: ashwinravim@gmail.com LinkedIn: www.linkedin.com/in/ravicm2,
 ### GitHub: www.github.com/ravicm2 HackerRank: www.hackerrank.com/ashwinravim Current Location: Bangalore, India
 
 ## Experience - 3.5 years
