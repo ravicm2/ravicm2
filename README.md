@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Senior Analyst / Software Engineer – Capgemini
 ### Email: ashwinravim@gmail.com LinkedIn: www.linkedin.com/in/ravicm2,
-### GitHub: www.github.com/ravicm2 HackerRank: www.hackerrank.com/ashwinravim Current Location: Bangalore, India
+### GitHub: www.github.com/ravicm2 Website: https://ravicm2.github.io/ Current Location: Chennai, India
 
-## Experience - 3.5 years
+## Experience - 3.5+ years
 ### Senior Analyst/ Software Engineer - Capgemini, Bangalore Apr 2019 – Present
 ### Software Engineer - Capgemini, Bangalore Apr 2018 – Mar 2019
 ### Software Associate - Capgemini, Bangalore Feb 2017 – Mar 2018
