@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Senior Analyst / Software Engineer – Capgemini
+### Senior Software Engineer – Genesys Telecom Laboritories
 ### Email: ashwinravim@gmail.com LinkedIn: www.linkedin.com/in/ravicm2,
 ### GitHub: www.github.com/ravicm2 Website: https://ravicm2.github.io/ Current Location: Chennai, India
 
 ## Experience - 3.5+ years
-### Senior Analyst/ Software Engineer - Capgemini, Bangalore Apr 2019 – Present
+### Senior Software Engineer - Genesys, India Oct 2020- Present
+### Senior Analyst/ Software Engineer - Capgemini, Bangalore Apr 2019 – Oct 2020
 ### Software Engineer - Capgemini, Bangalore Apr 2018 – Mar 2019
 ### Software Associate - Capgemini, Bangalore Feb 2017 – Mar 2018
   
-* Responsible to develop an open source framework (DevonFw) and also to develop web applications (backend java) for the clients of Capgemini as per Agile Methodology. Took part in all the scrum process meetings and also part of all SDLC.
+* Responsible to develop an open source framework (DevonFw) and also to develop web applications (backend java) for the clients as per Agile Methodology. Took part in all the scrum process meetings and also part of all SDLC.
 
 ## Education
 Bachelor of Computer Application
@@ -50,6 +51,8 @@ Graduated with 84.9%
 * Eclipse, Intellij.
 
 ## Projects
+### GAX,(Genesys, USA)
+
 ### DevonFW (Capgemini Product) a standardized open source architecture blueprint for state of the art cloud native (micro-) services and multi-platform rich client applications based on open source best-of-breed technology stacks.
 
 ### Lyreco, France a web application to sell their stationary projects throughout France, to track their records of business transactions and store it in oracle DB and also to exchange data from SAP to oracle.
