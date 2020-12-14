@@ -52,6 +52,7 @@ Graduated with 84.9%
 
 ## Projects
 ### GAX,(Genesys, USA)
+A product to configure the properties of all genesys products
 
 ### DevonFW (Capgemini Product) a standardized open source architecture blueprint for state of the art cloud native (micro-) services and multi-platform rich client applications based on open source best-of-breed technology stacks.
 
