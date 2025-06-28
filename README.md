@@ -1,4 +1,4 @@
-### Hi there 👋 ,
+<!--### Hi there 👋 ,
 
 <!--
 **ravicm2/ravicm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ## Technical Skills
 ### Programming languages	
 * Java 11, 17, 21
+* Python
 ### Frameworks	
 * Apache Kafka, Apache Camel, JPA, Hibernate, Spring 6.x, Spring Boot, Spring Batch, Spring Security and devonfw.
 ### Repositories	
