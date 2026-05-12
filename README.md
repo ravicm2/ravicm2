@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Technical Lead – Hapag Lloyd AG
 ### Email: ashwinravim@gmail.com LinkedIn: www.linkedin.com/in/ravicm2,
-### Website: https://ravicm2.github.io/ Current Location: Chennai, India
+### Current Location: Chennai, India
 
 ### Technical Lead – Hapag Lloyd AG, India May 2025 - Present
 ### Senior Software Engineer - Genesys, India Oct 2020- May 2025
